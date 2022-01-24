@@ -38,10 +38,12 @@ Java의 다양한 라이브러리들을 사용해 보는 것을 목적으로 합
 |--|------|-----------------------|
 |W1|[1주차] |2021-12-27 ~ 2022-01-02|
 |W2|[2주차] |2022-01-04 ~ 2022-01-09|
-|W3|[3주차] |2022-01-10 ~      |
+|W3|[3주차] |2022-01-10 ~ 2022-01-24|
+|W4|[4주차] |2022-01-25 ~ |
 
 
 
 [1주차]: https://heather-dev.notion.site/Week-1-7c50b06c12c642019b1d1fce97a9e057
 [2주차]: https://heather-dev.notion.site/Week-2-c89a13a2d3514abbb93943e399cc1959
 [3주차]: https://heather-dev.notion.site/Week-3-4a4a0d05eca246cdb742d26003eb8395
+[4주차]: https://heather-dev.notion.site/Week-4-6b792cb0b1894226958191494a099b13
