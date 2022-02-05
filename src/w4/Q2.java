@@ -30,8 +30,8 @@ public class Q2 {
             st = new StringTokenizer(br.readLine());
             for(int j = 0; j<n; j++) {
                 String isConnected = st.nextToken();
-                if(isConnected.equals("1") && parent[i] != j) {
-                    parent[j] = i;
+                if(isConnected.equals("1")) {
+                    union(i,j);
                 }
             }
         }
@@ -39,9 +39,9 @@ public class Q2 {
         st = new StringTokenizer(br.readLine());
         String city = st.nextToken();
         int root = find(Integer.parseInt(city));
-        for(int i = 0; i<m; i++) {
+        for(int i = 0; i<m-1; i++) {
             city = st.nextToken();
-            if(root != find(Integer.parseInt(city))) {
+            if(root != find((Integer.parseInt(city) - 1))) {
                 System.out.println("NO");
                 break;
             }
@@ -53,7 +53,7 @@ public class Q2 {
         if(parent[x] < 0) {
             return x;
         }
-        parent[x] = find(parent[x]);
+        //parent[x] = find(parent[x]);
         return parent[x];
     }
 
