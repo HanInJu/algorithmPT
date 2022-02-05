@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Q2 {
+public class Q2 { // https://www.acmicpc.net/problem/1976
     static int[] parent;
     public static void main(String[] args) throws IOException {
         // 먼저 N개의 줄을 돌면서 어떤 도시가 어떤 도시와 연결되어 있는지 정보를 넣는다.
