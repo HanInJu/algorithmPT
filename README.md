@@ -40,7 +40,8 @@ Java의 다양한 라이브러리들을 사용해 보는 것을 목적으로 합
 |W2|[2주차] |2022-01-04 ~ 2022-01-09|
 |W3|[3주차] |2022-01-10 ~ 2022-01-24|
 |W4|[4주차] |2022-01-25 ~ 2022-02-07|
-|W5|[5주차] |2022-02-08 ~ |
+|W5|[5주차] |2022-02-08 ~ 2022-02-21|
+|W6|[6주차] |2022-02-22 ~ |
 
 
 
@@ -49,3 +50,4 @@ Java의 다양한 라이브러리들을 사용해 보는 것을 목적으로 합
 [3주차]: https://heather-dev.notion.site/Week-3-4a4a0d05eca246cdb742d26003eb8395
 [4주차]: https://heather-dev.notion.site/Week-4-6b792cb0b1894226958191494a099b13
 [5주차]: https://heather-dev.notion.site/Week-5-d54e5f1fa8044487b63e122c50d798e7
+[6주차]: https://heather-dev.notion.site/Week-6-ff2ee358f7704f6c8fae967d5e70d215
