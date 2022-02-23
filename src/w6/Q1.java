@@ -1,6 +1,6 @@
-package w5;
+package w6;
 
-public class Q11 {
+public class Q1 {
     public static void main(String[] args) {
 
     }
